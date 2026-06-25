@@ -803,6 +803,11 @@ section,
   z-index: 3;
 }
 
+.location-map iframe {
+  box-shadow: 0px 0px 10px 1px var(--accent-color);
+    border-radius: 20px;
+}
+
 @media (max-width: 992px) {
   .hero .hero-image .image-wrapper .floating-card.card-1 {
     left: -10%;
