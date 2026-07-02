@@ -870,8 +870,8 @@ section,
 # About Section
 --------------------------------------------------------------*/
 .about {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .about .intro-header {
@@ -1166,7 +1166,7 @@ section,
 # Stats Section
 --------------------------------------------------------------*/
 .stats {
-  padding: 120px 0;
+  padding: 60px 0;
 }
 
 .stats .stats-grid {
@@ -2244,7 +2244,7 @@ section,
 # Services Section
 --------------------------------------------------------------*/
 .services {
-  padding: 120px 0;
+  padding: 60px 0;
 }
 
 .services .service-item {
@@ -2655,7 +2655,7 @@ section,
 # Contact Section
 --------------------------------------------------------------*/
 .contact {
-  padding: 120px 0 100px;
+  padding: 60px 0 60px;
 }
 
 .contact .info-item {
