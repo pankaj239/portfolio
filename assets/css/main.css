@@ -204,6 +204,13 @@ h6 {
   background: var(--accent-color);
 }
 
+@media screen and (max-width: 1440px) {
+ .hero .hero-content h1 {
+  font-size: 2.5rem !important;
+ }
+}
+
+
 @media (min-width: 1200px) {
 
   .header~main,
