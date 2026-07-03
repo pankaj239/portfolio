@@ -900,9 +900,9 @@ section,
   margin: 0;
 }
 
-.about .main-content-wrapper {
+/* .about .main-content-wrapper {
   margin-bottom: 100px;
-}
+} */
 
 .about .profile-section .profile-image-container {
   margin-bottom: 2rem;
@@ -1042,6 +1042,7 @@ section,
 
 .about .bottom-section {
   padding-top: 60px;
+  padding-bottom: 60px;
   border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 85%);
 }
 
